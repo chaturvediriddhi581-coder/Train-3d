@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Rail Simulator 3D - Indian Railways Open World",
+  "description": "Realistic 3D Indian Train Open World Simulator featuring Vande Bharat, Rajdhani, WAP-7, freight locos, iconic Indian stations, cabins, day/night weather & free roam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
